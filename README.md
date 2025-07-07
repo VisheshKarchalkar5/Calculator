@@ -44,7 +44,6 @@ calculator/
 
 ## 📷 Screenshot
 
-![Calculator Screenshot](screenshot.png)  
 <sub>*Add a screenshot named `screenshot.png` in the root directory to display here.*</sub>
 
 ---
